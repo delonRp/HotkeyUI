@@ -1,0 +1,2 @@
+# HotkeyUI
+token
