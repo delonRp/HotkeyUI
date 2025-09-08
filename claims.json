@@ -1,2 +1,7 @@
 {
+    "admin_test_MAKANAN": {
+        "last_claim_timestamp": "2025-09-08T16:16:32.422647+00:00",
+        "current_token": "MAKANAN",
+        "token_expiry_timestamp": "2025-09-08T16:17:32.422647+00:00"
+    }
 }
