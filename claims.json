@@ -13,5 +13,10 @@
         "last_claim_timestamp": "2025-09-08T15:22:02.123972+00:00",
         "current_token": "VIP-VX80-20250908",
         "token_expiry_timestamp": "2025-10-08T15:22:02.123972+00:00"
+    },
+    "admin_test_kotka": {
+        "last_claim_timestamp": "2025-09-08T15:23:09.108154+00:00",
+        "current_token": "kotka",
+        "token_expiry_timestamp": "2025-09-08T15:24:09.108154+00:00"
     }
 }
