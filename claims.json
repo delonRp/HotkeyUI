@@ -1,22 +1,2 @@
 {
-    "85602244574799466": {
-        "last_claim_timestamp": "2025-09-08T15:03:35.138086+00:00",
-        "current_token": "BEGINNER-XU14-20250908",
-        "token_expiry_timestamp": "2025-09-11T15:03:35.138086+00:00"
-    },
-    "782445287855489076": {
-        "last_claim_timestamp": "2025-09-08T15:19:26.809322+00:00",
-        "current_token": "BEGINNER-PS9U-20250908",
-        "token_expiry_timestamp": "2025-09-11T15:19:26.809322+00:00"
-    },
-    "856022445747994664": {
-        "last_claim_timestamp": "2025-09-08T15:22:02.123972+00:00",
-        "current_token": "VIP-VX80-20250908",
-        "token_expiry_timestamp": "2025-10-08T15:22:02.123972+00:00"
-    },
-    "admin_test_jsdoftikjrtg": {
-        "last_claim_timestamp": "2025-09-08T15:26:33.765863+00:00",
-        "current_token": "jsdoftikjrtg",
-        "token_expiry_timestamp": "2025-10-08T15:26:33.765863+00:00"
-    }
 }
