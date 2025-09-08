@@ -3,5 +3,10 @@
         "last_claim_timestamp": "2025-09-08T16:16:32.422647+00:00",
         "current_token": "MAKANAN",
         "token_expiry_timestamp": "2025-09-08T16:17:32.422647+00:00"
+    },
+    "856022445747994664": {
+        "last_claim_timestamp": "2025-09-08T16:17:18.222608+00:00",
+        "current_token": "VIP-RVQ7-20250908",
+        "token_expiry_timestamp": "2025-10-08T16:17:18.222608+00:00"
     }
 }
