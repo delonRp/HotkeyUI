@@ -3,5 +3,10 @@
         "last_claim_timestamp": "2025-09-08T16:17:18.222608+00:00",
         "current_token": "VIP-RVQ7-20250908",
         "token_expiry_timestamp": "2025-10-08T16:17:18.222608+00:00"
+    },
+    "admin_test_KOTKAAJA": {
+        "last_claim_timestamp": "2025-09-08T16:20:42.036639+00:00",
+        "current_token": "KOTKAAJA",
+        "token_expiry_timestamp": "2025-09-18T16:20:42.036639+00:00"
     }
 }
