@@ -38,5 +38,10 @@
         "last_claim_timestamp": "2025-09-09T09:13:34.275852+00:00",
         "current_token": "SUBSCRIBER-CHMD-20250909",
         "token_expiry_timestamp": "2025-09-14T09:13:34.275852+00:00"
+    },
+    "admin_test_123": {
+        "last_claim_timestamp": "2025-09-09T09:26:37.603694+00:00",
+        "current_token": "123",
+        "token_expiry_timestamp": "2025-09-09T10:26:37.603694+00:00"
     }
 }
