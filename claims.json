@@ -48,5 +48,10 @@
         "last_claim_timestamp": "2025-09-09T15:20:35.889044+00:00",
         "current_token": "BEGINNER-14DS-20250909",
         "token_expiry_timestamp": "2025-09-12T15:20:35.889044+00:00"
+    },
+    "782445287855489076": {
+        "last_claim_timestamp": "2025-09-09T17:10:13.255328+00:00",
+        "current_token": "SUBSCRIBER-70W9-20250909",
+        "token_expiry_timestamp": "2025-09-14T17:10:13.255328+00:00"
     }
 }
