@@ -64,11 +64,6 @@
         "current_token": "SUBSCRIBER-QBEV-20250910",
         "token_expiry_timestamp": "2025-09-15T09:28:11.928006+00:00"
     },
-    "admin_test_kotkahelper": {
-        "last_claim_timestamp": "2025-09-10T10:09:34.467431+00:00",
-        "current_token": "kotkahelper",
-        "token_expiry_timestamp": "2025-09-10T13:09:34.467431+00:00"
-    },
     "1216623646190342196": {
         "last_claim_timestamp": "2025-09-10T10:18:59.128242+00:00",
         "current_token": "SUBSCRIBER-9PR5-20250910",
