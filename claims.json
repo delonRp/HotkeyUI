@@ -49,11 +49,6 @@
         "current_token": "SUBSCRIBER-70W9-20250909",
         "token_expiry_timestamp": "2025-09-14T17:10:13.255328+00:00"
     },
-    "admin_test_MOBILE": {
-        "last_claim_timestamp": "2025-09-09T17:54:50.105459+00:00",
-        "current_token": "MOBILE",
-        "token_expiry_timestamp": "2025-09-10T17:54:50.105459+00:00"
-    },
     "701655695535374348": {
         "last_claim_timestamp": "2025-09-10T08:49:03.234314+00:00",
         "current_token": "BEGINNER-PEB4-20250910",
