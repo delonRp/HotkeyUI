@@ -103,5 +103,10 @@
         "last_claim_timestamp": "2025-09-10T21:21:04.758118+00:00",
         "current_token": "BEGINNER-L1QG-20250910",
         "token_expiry_timestamp": "2025-09-13T21:21:04.758118+00:00"
+    },
+    "1393731202665549985": {
+        "last_claim_timestamp": "2025-09-11T01:46:22.006775+00:00",
+        "current_token": "BEGINNER-S5SZ-20250911",
+        "token_expiry_timestamp": "2025-09-14T01:46:22.006775+00:00"
     }
 }
