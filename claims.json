@@ -118,5 +118,10 @@
         "last_claim_timestamp": "2025-09-11T05:17:43.213952+00:00",
         "current_token": "BEGINNER-7EWV-20250911",
         "token_expiry_timestamp": "2025-09-14T05:17:43.213952+00:00"
+    },
+    "1414186590300803172": {
+        "last_claim_timestamp": "2025-09-11T05:51:47.593922+00:00",
+        "current_token": "BEGINNER-EBSX-20250911",
+        "token_expiry_timestamp": "2025-09-14T05:51:47.593922+00:00"
     }
 }
