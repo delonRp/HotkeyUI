@@ -128,5 +128,10 @@
         "last_claim_timestamp": "2025-09-11T06:24:39.664203+00:00",
         "current_token": "BEGINNER-KIVR-20250911",
         "token_expiry_timestamp": "2025-09-14T06:24:39.664203+00:00"
+    },
+    "admin_test_kotkaaja": {
+        "last_claim_timestamp": "2025-09-11T07:13:24.614767+00:00",
+        "current_token": "kotkaaja",
+        "token_expiry_timestamp": "2025-09-12T07:13:24.614767+00:00"
     }
 }
