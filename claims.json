@@ -168,5 +168,10 @@
         "last_claim_timestamp": "2025-09-12T01:51:25.135300+00:00",
         "current_token": "BEGINNER-5PGD-20250912",
         "token_expiry_timestamp": "2025-09-15T01:51:25.135300+00:00"
+    },
+    "1378554504667988089": {
+        "last_claim_timestamp": "2025-09-12T09:44:28.259305+00:00",
+        "current_token": "BEGINNER-2C60-20250912",
+        "token_expiry_timestamp": "2025-09-15T09:44:28.259305+00:00"
     }
 }
