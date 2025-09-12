@@ -193,5 +193,10 @@
         "last_claim_timestamp": "2025-09-12T15:27:49.938808+00:00",
         "current_token": "BEGINNER-JD6P-20250912",
         "token_expiry_timestamp": "2025-09-15T15:27:49.938808+00:00"
+    },
+    "972531877179170876": {
+        "last_claim_timestamp": "2025-09-12T16:40:24.801008+00:00",
+        "current_token": "BEGINNER-2QT6-20250912",
+        "token_expiry_timestamp": "2025-09-15T16:40:24.801008+00:00"
     }
 }
