@@ -197,5 +197,10 @@
         "last_claim_timestamp": "2025-09-14T01:44:50.907317+00:00",
         "current_token": "KOTKA",
         "token_expiry_timestamp": "2025-09-16T01:44:50.907317+00:00"
+    },
+    "782445287855489076": {
+        "last_claim_timestamp": "2025-09-14T06:57:23.995044+00:00",
+        "current_token": "SUBSCRIBER-WS53-20250914",
+        "token_expiry_timestamp": "2025-09-19T06:57:23.995044+00:00"
     }
 }
