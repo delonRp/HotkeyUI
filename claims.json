@@ -202,5 +202,10 @@
         "last_claim_timestamp": "2025-09-14T06:57:23.995044+00:00",
         "current_token": "SUBSCRIBER-WS53-20250914",
         "token_expiry_timestamp": "2025-09-19T06:57:23.995044+00:00"
+    },
+    "1333000807561560106": {
+        "last_claim_timestamp": "2025-09-14T07:07:45.154764+00:00",
+        "current_token": "BEGINNER-NZBK-20250914",
+        "token_expiry_timestamp": "2025-09-17T07:07:45.154764+00:00"
     }
 }
