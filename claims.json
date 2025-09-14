@@ -200,5 +200,10 @@
         "last_claim_timestamp": "2025-09-13T17:55:50.136456+00:00",
         "current_token": "BEGINNER-U6RJ-20250913",
         "token_expiry_timestamp": "2025-09-16T17:55:50.136456+00:00"
+    },
+    "admin_test_KOTKA": {
+        "last_claim_timestamp": "2025-09-14T01:44:50.907317+00:00",
+        "current_token": "KOTKA",
+        "token_expiry_timestamp": "2025-09-16T01:44:50.907317+00:00"
     }
 }
