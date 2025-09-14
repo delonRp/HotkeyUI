@@ -207,5 +207,10 @@
         "last_claim_timestamp": "2025-09-14T07:07:45.154764+00:00",
         "current_token": "BEGINNER-NZBK-20250914",
         "token_expiry_timestamp": "2025-09-17T07:07:45.154764+00:00"
+    },
+    "1120161241550299207": {
+        "last_claim_timestamp": "2025-09-14T07:22:18.826102+00:00",
+        "current_token": "BEGINNER-1HFJ-20250914",
+        "token_expiry_timestamp": "2025-09-17T07:22:18.826102+00:00"
     }
 }
