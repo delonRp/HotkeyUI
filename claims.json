@@ -250,5 +250,10 @@
         "last_claim_timestamp": "2025-09-15T18:36:21.507334+00:00",
         "current_token": "BEGINNER-3VU8-20250915",
         "token_expiry_timestamp": "2025-09-18T18:36:21.507334+00:00"
+    },
+    "1417216520655994880": {
+        "last_claim_timestamp": "2025-09-15T20:53:44.506292+00:00",
+        "current_token": "BEGINNER-BVUS-20250915",
+        "token_expiry_timestamp": "2025-09-18T20:53:44.506292+00:00"
     }
 }
