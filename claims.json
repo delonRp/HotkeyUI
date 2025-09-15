@@ -231,5 +231,10 @@
         "last_claim_timestamp": "2025-09-15T04:53:18.159118+00:00",
         "current_token": "BEGINNER-HKSC-20250915",
         "token_expiry_timestamp": "2025-09-18T04:53:18.159118+00:00"
+    },
+    "1383473217129156680": {
+        "last_claim_timestamp": "2025-09-15T12:01:13.473474+00:00",
+        "current_token": "SUBSCRIBER-ZVUT-20250915",
+        "token_expiry_timestamp": "2025-09-20T12:01:13.473474+00:00"
     }
 }
