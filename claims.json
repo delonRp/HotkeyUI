@@ -233,5 +233,10 @@
         "last_claim_timestamp": "2025-09-15T00:48:44.301539+00:00",
         "current_token": "BEGINNER-WEOG-20250915",
         "token_expiry_timestamp": "2025-09-18T00:48:44.301539+00:00"
+    },
+    "958786606968475648": {
+        "last_claim_timestamp": "2025-09-15T01:41:08.010773+00:00",
+        "current_token": "BEGINNER-2R3L-20250915",
+        "token_expiry_timestamp": "2025-09-18T01:41:08.010773+00:00"
     }
 }
