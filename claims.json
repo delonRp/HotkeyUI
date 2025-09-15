@@ -242,5 +242,10 @@
         "last_claim_timestamp": "2025-09-15T13:47:13.348705+00:00",
         "current_token": "BEGINNER-MQUP-20250915",
         "token_expiry_timestamp": "2025-09-18T13:47:13.348705+00:00"
+    },
+    "1388426077914927215": {
+        "last_claim_timestamp": "2025-09-15T18:13:30.036725+00:00",
+        "current_token": "BEGINNER-D1QW-20250915",
+        "token_expiry_timestamp": "2025-09-18T18:13:30.036725+00:00"
     }
 }
