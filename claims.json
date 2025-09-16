@@ -242,5 +242,10 @@
         "last_claim_timestamp": "2025-09-16T10:01:13.750425+00:00",
         "current_token": "SUBSCRIBER-8HQS-20250916",
         "token_expiry_timestamp": "2025-09-21T10:01:13.750425+00:00"
+    },
+    "1353333696408588340": {
+        "last_claim_timestamp": "2025-09-16T16:01:00.209431+00:00",
+        "current_token": "BEGINNER-Q30X-20250916",
+        "token_expiry_timestamp": "2025-09-19T16:01:00.209431+00:00"
     }
 }
