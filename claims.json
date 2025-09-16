@@ -247,5 +247,10 @@
         "last_claim_timestamp": "2025-09-16T05:55:39.617581+00:00",
         "current_token": "BEGINNER-QLC7-20250916",
         "token_expiry_timestamp": "2025-09-19T05:55:39.617581+00:00"
+    },
+    "771874858039509023": {
+        "last_claim_timestamp": "2025-09-16T09:34:36.508752+00:00",
+        "current_token": "SUBSCRIBER-BKRM-20250916",
+        "token_expiry_timestamp": "2025-09-21T09:34:36.508752+00:00"
     }
 }
