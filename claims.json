@@ -4,9 +4,6 @@
         "current_token": "KOTKAAJA",
         "token_expiry_timestamp": "2025-09-18T16:20:42.036639+00:00"
     },
-    "1413348670556078122": {
-        "last_claim_timestamp": "2025-09-10T12:33:10.860296+00:00"
-    },
     "896616619504177162": {
         "last_claim_timestamp": "2025-09-10T14:08:21.455331+00:00"
     },
@@ -74,9 +71,7 @@
         "last_claim_timestamp": "2025-09-12T10:18:17.247881+00:00"
     },
     "1137266449040293889": {
-        "last_claim_timestamp": "2025-09-12T12:33:03.454844+00:00",
-        "current_token": "SUBSCRIBER-TZXE-20250912",
-        "token_expiry_timestamp": "2025-09-17T12:33:03.454844+00:00"
+        "last_claim_timestamp": "2025-09-12T12:33:03.454844+00:00"
     },
     "852189611656216576": {
         "last_claim_timestamp": "2025-09-12T15:27:49.938808+00:00"
