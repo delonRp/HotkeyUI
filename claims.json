@@ -240,5 +240,10 @@
         "last_claim_timestamp": "2025-09-17T15:02:15.698863+00:00",
         "current_token": "SUBSCRIBER-A772-20250917",
         "token_expiry_timestamp": "2025-09-22T15:02:15.698863+00:00"
+    },
+    "1117177000713527377": {
+        "last_claim_timestamp": "2025-09-17T17:56:01.306157+00:00",
+        "current_token": "BEGINNER-B1JM-20250917",
+        "token_expiry_timestamp": "2025-09-20T17:56:01.306157+00:00"
     }
 }
