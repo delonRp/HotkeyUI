@@ -133,9 +133,7 @@
         "token_expiry_timestamp": "2025-09-19T07:22:46.351174+00:00"
     },
     "1349715735772925993": {
-        "last_claim_timestamp": "2025-09-14T08:06:53.072987+00:00",
-        "current_token": "BEGINNER-T8XM-20250914",
-        "token_expiry_timestamp": "2025-09-17T08:06:53.072987+00:00"
+        "last_claim_timestamp": "2025-09-14T08:06:53.072987+00:00"
     },
     "1033202277441360025": {
         "last_claim_timestamp": "2025-09-14T08:07:50.476300+00:00",
