@@ -141,9 +141,7 @@
         "token_expiry_timestamp": "2025-10-14T08:07:50.476300+00:00"
     },
     "1262360294500335669": {
-        "last_claim_timestamp": "2025-09-14T08:09:06.452094+00:00",
-        "current_token": "BEGINNER-SIQB-20250914",
-        "token_expiry_timestamp": "2025-09-17T08:09:06.452094+00:00"
+        "last_claim_timestamp": "2025-09-14T08:09:06.452094+00:00"
     },
     "1406153358376439908": {
         "last_claim_timestamp": "2025-09-14T11:51:48.707571+00:00",
