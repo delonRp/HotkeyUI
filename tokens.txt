@@ -300,8 +300,6 @@ SUBSCRIBER-7FC9-20251227
 
 win
 
-chel
-
 BEGINNER-JNGY-20251229
 
 call
@@ -385,8 +383,6 @@ vin
 lego
 
 mito
-
-INNERCIRCLE-Y0P1-20260120
 
 rown
 
